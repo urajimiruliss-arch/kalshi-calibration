@@ -1,0 +1,81 @@
+{
+  "downloaded_at": "2026-09-23T00:16:47+00:00",
+  "api": "https://api.elections.kalshi.com/trade-api/v2",
+  "series": [
+    "KXMLBGAME",
+    "KXNFLGAME",
+    "KXEPLGAME",
+    "KXUCLWGAME",
+    "KXNHLGAME",
+    "KXHIGHNY",
+    "KXHIGHCHI",
+    "KXHIGHLAX"
+  ],
+  "horizon_hours": 24,
+  "files": {
+    "markets_KXMLBGAME.json": {
+      "sha256": "e4f69c5a6c3b3761df83b1df72cbe71bddf1349849391e5087a91e6c2393c851",
+      "bytes": 4319349
+    },
+    "candles_KXMLBGAME.jsonl": {
+      "sha256": "9536a7d1e90d87802944645b54f00bdd9a62f59e1a404ce2ee9021dce7eb6fc0",
+      "bytes": 26214000
+    },
+    "markets_KXNFLGAME.json": {
+      "sha256": "7daee84306786c3e90690e876878fbe37d2c3d2bdc38f303f1406705068196f2",
+      "bytes": 400523
+    },
+    "candles_KXNFLGAME.jsonl": {
+      "sha256": "c1a9429e04a98fc8b775fe99faaff132972aaed550267f00fb4bc8244de36ecf",
+      "bytes": 2328785
+    },
+    "markets_KXEPLGAME.json": {
+      "sha256": "616b3b75760752380c248498ede0b06d9feca91af432cb3028173423fe2ac65a",
+      "bytes": 369524
+    },
+    "candles_KXEPLGAME.jsonl": {
+      "sha256": "0d068f2a1bb5d250364a0008d425882260743f2a8b04d1185d1534e30adc42df",
+      "bytes": 2204454
+    },
+    "markets_KXUCLWGAME.json": {
+      "sha256": "c5e48fd95eb237f5e6055b8b1a519cdf812a3ce5869eb8f9e28834602e627ce3",
+      "bytes": 510664
+    },
+    "candles_KXUCLWGAME.jsonl": {
+      "sha256": "f6499bd38c283c08cff52a754e32eba530a96c23396e62fdf1d268766c051e9f",
+      "bytes": 2183810
+    },
+    "markets_KXNHLGAME.json": {
+      "sha256": "479c8ac4fb7adaa8e5809eec5a38974419b144addaf6a79ffb920de374da7b76",
+      "bytes": 83416
+    },
+    "candles_KXNHLGAME.jsonl": {
+      "sha256": "561d8e011ee4f545bc8f6eff5b1468c6594a5fcf8e04fb0793866a436d850cf4",
+      "bytes": 524762
+    },
+    "markets_KXHIGHNY.json": {
+      "sha256": "c53092fa3dc5712a3820343b1d608a34f528286ce908bef885bad0311ed71e5c",
+      "bytes": 1080562
+    },
+    "candles_KXHIGHNY.jsonl": {
+      "sha256": "b415d7e76e5f6d9dd6daf45f970ff5dd189d06025790ac270391fa9b02302a4c",
+      "bytes": 5545746
+    },
+    "markets_KXHIGHCHI.json": {
+      "sha256": "4fa04b466853b2294e0d5bd79e41b00ec48c35908cd6f78b17f384d263ef03e5",
+      "bytes": 1078926
+    },
+    "candles_KXHIGHCHI.jsonl": {
+      "sha256": "1f722499ee5a6b11ccf13b0f531567e5aa601dadad54b0886f9f7dbf81fd2229",
+      "bytes": 5563129
+    },
+    "markets_KXHIGHLAX.json": {
+      "sha256": "a4badd660d232c18f3b145588431a7543925c6d7cb20bfb52697f920b98808d6",
+      "bytes": 1075381
+    },
+    "candles_KXHIGHLAX.jsonl": {
+      "sha256": "c016c5f76d4c9083a4f7f5b313793d6d486c729b3d7533c5c8a3d3c32a4aa607",
+      "bytes": 5790015
+    }
+  }
+}
